@@ -4,4 +4,4 @@ for i in range(len(car)):
     print('Я езжу на автомабиле марки',car[i])
     if i > 0:
         cars_count += 10
-        print (cars_count)
+        print (cars_count)f
