@@ -4,12 +4,9 @@ def test():
     print(a, b)
 
 
-def test2():
-    a = 1
-    b = 2
-    c = 3
+def test2(a, b, c):
     print(a, b, c)
 
 
 test()
-test2()
+test2(1, 2, 3)
