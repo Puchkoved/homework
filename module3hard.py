@@ -40,3 +40,4 @@ def st(new):  # Считает кол-во символов между '' не �
 
 
 print(st(str(data_structure)) + num(str(data_structure)))
+ауау
