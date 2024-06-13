@@ -1,2 +1,2 @@
-with open('text', 'r') as f:
+with open('text.txt', 'r') as f:
     print(f.read())
