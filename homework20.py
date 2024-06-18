@@ -1,2 +1,3 @@
 with open('text.txt', 'r') as f:
-    print(f.read())
+   print(f.read())
+
